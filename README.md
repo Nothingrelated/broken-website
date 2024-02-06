@@ -10,11 +10,15 @@ download package
 
 npm install
 
-after install the install dev depends
+after npm install now  install dev dependencies  using npm install and the the name of each dev dependency
 
-now replace existing @mozartfinanceui kit with the one from github listed on our github
+when done with the dev dependencies
 
-unpack the replacement mozartfile and use the internal @mazrtui to replace the one installed during the npm install action
+now replace existing @mozartfinance file in node modules with the one  listed on our github
+
+unpack the replacement mozartfile and use the internal @mozartfinance to replace the one installed 
+
+during the npm install action in the node modules folder
 
 after replacing use npm start to see site on local
 
